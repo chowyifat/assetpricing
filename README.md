@@ -1,1 +1,1 @@
-# asset_pricing
+# assetpricing
